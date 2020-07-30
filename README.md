@@ -1,2 +1,2 @@
-# luma
+# LuMA
 Lua Modular Application
